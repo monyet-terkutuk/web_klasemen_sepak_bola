@@ -24,5 +24,8 @@
             </li>
             <li>Validasi Form.</li>
         </ul>
+        <h5>Berikut source code via GitHub</h5>
+        <a
+            href="https://github.com/undeath-cyber/web_klasemen_sepak_bola">https://github.com/undeath-cyber/web_klasemen_sepak_bola</a>
     </div>
 @endsection
